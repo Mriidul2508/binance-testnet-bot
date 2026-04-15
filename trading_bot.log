@@ -1,0 +1,13 @@
+2026-04-15 13:05:12,145 - INFO - Initializing Binance Testnet Client...
+2026-04-15 13:05:12,678 - INFO - Request Summary: MARKET BUY order for 0.01 BTCUSDT
+2026-04-15 13:05:13,210 - INFO - --- SUCCESS: Order Placed ---
+2026-04-15 13:05:13,211 - INFO - Order ID: 3498271034
+2026-04-15 13:05:13,211 - INFO - Status: FILLED
+2026-04-15 13:05:13,211 - INFO - Executed Qty: 0.01
+2026-04-15 13:05:13,212 - INFO - Average Price: 64230.50
+2026-04-15 13:06:45,892 - INFO - Initializing Binance Testnet Client...
+2026-04-15 13:06:45,910 - INFO - Request Summary: LIMIT SELL order for 0.01 BTCUSDT at 80000.0
+2026-04-15 13:06:46,450 - INFO - --- SUCCESS: Order Placed ---
+2026-04-15 13:06:46,451 - INFO - Order ID: 3498271089
+2026-04-15 13:06:46,451 - INFO - Status: NEW
+2026-04-15 13:06:46,451 - INFO - Executed Qty: 0.0
